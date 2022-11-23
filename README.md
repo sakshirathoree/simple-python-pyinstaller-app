@@ -1,4 +1,6 @@
 # simple-python-pyinstaller-app
+for jenkins task
+
 
 This repository is for building a Python Application in Jenkins
 
